@@ -1,0 +1,33 @@
+
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Rebecca Elliott",
+      "title": "Elon Musk’s Tesla Compensation Trial Turns to Financial Experts in Closing Days",
+      "description": "Tesla CEO testified in Delaware that clearing the performance targets for his pay to vest was ‘extremely unlikely’",
+      "url": "https://www.wsj.com/articles/elon-musks-tesla-compensation-trial-turns-to-financial-experts-in-closing-days-11668659923?mod=hp_lead_pos4",
+      "urlToImage": "https://images.wsj.net/im-668415/social",
+      "publishedAt": "2022-11-17T10:30:00Z",
+      "content": "WILMINGTON, Del.The trial over \r\nElon Musks multibillion-dollar pay package at Tesla Inc. enters its closing days with outside financial experts poised to take the stand.Richard Tornetta, a Tesla sha… [+226 chars]"
+    },
+    {
+      "source": {
+        "id": "recode",
+        "name": "Recode"
+      },
+      "author": "Peter Kafka",
+      "title": "Interview with Elon Musk biographer Ashlee Vance",
+      "description": "A discussion of the Twitter owner’s management style and business history at Tesla and SpaceX, with Vox’s Peter Kafka.",
+      "url": "https://www.vox.com/recode/2022/11/15/23460730/elon-musk-twitter-tesla-biography-ashlee-vance-peter-kafka-column",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qRIbHiJnhGzvtuzSPSvNOZNqwSI=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24199405/930443290.jpg",
+      "publishedAt": "2022-11-15T20:10:00Z",
+      "content": "It was easy to predict that Elon Musks first few weeks as Twitters owner would be a mess. But even if you thought the worlds richest man and Twitters most high-profile user would stumble once he owne… [+12472 chars]"
+    }
+  ]
+}
