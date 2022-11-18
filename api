@@ -1,7 +1,7 @@
 
 {
   "status": "ok",
-  "totalResults": 2,
+  "totalResults": 7,
   "articles": [
     {
       "source": {
@@ -15,6 +15,71 @@
       "urlToImage": "https://images.wsj.net/im-668415/social",
       "publishedAt": "2022-11-17T10:30:00Z",
       "content": "WILMINGTON, Del.The trial over \r\nElon Musks multibillion-dollar pay package at Tesla Inc. enters its closing days with outside financial experts poised to take the stand.Richard Tornetta, a Tesla sha… [+226 chars]"
+    },
+    {
+      "source": {
+        "id": "recode",
+        "name": "Recode"
+      },
+      "author": "Peter Kafka",
+      "title": "Interview with Elon Musk biographer Ashlee Vance",
+      "description": "A discussion of the Twitter owner’s management style and business history at Tesla and SpaceX, with Vox’s Peter Kafka.",
+      "url": "https://www.vox.com/recode/2022/11/15/23460730/elon-musk-twitter-tesla-biography-ashlee-vance-peter-kafka-column",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/qRIbHiJnhGzvtuzSPSvNOZNqwSI=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24199405/930443290.jpg",
+      "publishedAt": "2022-11-15T20:10:00Z",
+      "content": "It was easy to predict that Elon Musks first few weeks as Twitters owner would be a mess. But even if you thought the worlds richest man and Twitters most high-profile user would stumble once he owne… [+12472 chars]"
+    }
+    {
+      "source": {
+        "id": "handelsblatt",
+        "name": "Handelsblatt"
+      },
+      "author": "Martin Murphy, Stefan Menzel",
+      "title": "Trinity-Werk: Tesla-Jäger verschoben – Neues VW-Werk vor dem Aus",
+      "description": "VW-Chef Oliver Blume kommt mit der Entwicklung des Tesla-Jägers Trinity nicht voran. Das geplante neue Werk in Wolfsburg wird offenbar nicht mehr gebraucht.",
+      "url": "https://www.handelsblatt.com/unternehmen/industrie/autohersteller-volkswagen-verschiebt-elektromodell-trinity-neues-werk-vor-dem-aus/28815596.html",
+      "urlToImage": "https://www.handelsblatt.com/images/oliver-blume/28816754/2-format2003.jpg",
+      "publishedAt": "2022-11-18T07:17:51+00:00",
+      "content": "Oliver Blume\r\nBerlin, Düsseldorf Wenige Monate nach seinem Amtsantritt steht Volkswagen-Chef Oliver Blume vor harten Entscheidungen. Weil sich die Entwicklung des Zukunftsmodells Trinity verzögert, m… [+1159 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "",
+      "title": "Analyst: Musk 'circus' is hurting Tesla | CNN Business",
+      "description": "Wedbush research analyst Dan Ives explains why Tesla shares have been removed from his company's Best Ideas List after Elon Musk's Twitter takeover.",
+      "url": "http://us.cnn.com/videos/business/2022/11/16/wedbush-elon-musk-affects-tesla-stock-markets-now-ht.cnn-business",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221116141652-twitter-tesla.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-11-18T04:52:37.6237407Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "author": "Brian Wang",
+      "title": "Tesla Will Get Robotaxi at Scale 5-10 Years Before Competitors $TSLA | NextBigFuture.com",
+      "description": "Self-driving car company Argo AI failure when Ford and VW pulled the plug after spending over $3 billion. It is big evidence that Lidar-dependent self-driving",
+      "url": "https://www.nextbigfuture.com/2022/11/tesla-will-get-robotaxi-at-scale-5-10-years-before-competitors-tsla.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2021/08/fsdv92.jpeg",
+      "publishedAt": "2022-11-17T18:22:33Z",
+      "content": "Self-driving car company Argo AI failure when Ford and VW pulled the plug after spending over $3 billion. It is big evidence that Lidar-dependent self-driving has a long way to go. All of the self-dr… [+3895 chars]"
+    },
+    {
+      "source": {
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "author": "Brian Wang",
+      "title": "Talking Tesla with Author Randy Kirk | NextBigFuture.com",
+      "description": "A talk with Tesla author Randy Kirk discusses several catalysts that will help share prices recover or to better weather the financial storms.",
+      "url": "https://www.nextbigfuture.com/2022/11/talking-tesla-with-author-randy-kirk.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2022/11/Screen-Shot-2022-11-16-at-5.00.20-PM.jpg",
+      "publishedAt": "2022-11-17T17:15:15Z",
+      "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology… [+593 chars]"
     },
     {
       "source": {
